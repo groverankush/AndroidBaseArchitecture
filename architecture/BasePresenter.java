@@ -1,4 +1,4 @@
-package com.ankushgrover.kisanchallenge.architecture;
+package com.ankushgrover.imagesearch.architecture;
 
 import android.support.annotation.StringRes;
 
